@@ -1,0 +1,28 @@
+{
+    "name": "quick.menu.search",
+    "title": "Menu Search and Edit Keyboard Shortcuts",
+    "version": "1.0.1",
+    "description": "Quick search menu commands and execute them.",
+    "author": "Naveen Choudhary <choudhary.nav2@gmail.com> (https://github.com/navch/)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.11.0"
+    },
+    "main": "main.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/navch/MenusSearchAndShortcut.git"
+    },
+    "keywords": [
+      "menus",
+      "keyboard",
+      "shortcuts",
+      "commands",
+      "search",
+      "quick"
+    ],
+    "bugs": {
+        "url": "https://github.com/navch/MenusSearchAndShortcut/issues"
+    },
+    "homepage": "https://github.com/navch/MenusSearchAndShortcut"
+}
